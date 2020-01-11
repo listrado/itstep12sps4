@@ -4,7 +4,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title>Massoterapia</title>
+<title>Mundo De Alivio</title>
 
 <meta http-equiv="Content-Type"
 	content="text/html; charset=windows-1250">
@@ -101,11 +101,9 @@
 					<td colspan="4" align="left" background="html/images/b_wel.jpg"
 						height="116" valign="top" width="242">
 						<p>
-							<span class="text1">WELCOME TO OUR CENTER </span><br>
-							consetetur sadipscing elitr, sed diam nonumy eirmod<br> <br>
-							invidunt ut labore Lorem ipsum dolor sit amet, conseter
-							sadipscing elitr, sed diam Lorem ipsum dolor sit amet <a href="#">take
-								tour now...</a>
+							<span class="text1">WELCOME TO MUNDO DE ALIVIO </span><br>
+							quer massagem?<br> <br>
+							aqui voce pode pagar para receber varios tipos de massagem diferentes veja os <a href="#massages">tipos de massagem </a>
 						</p>
 					</td>
 					<td colspan="4" align="left" valign="top"><img
@@ -134,8 +132,9 @@
 				</tr>
 				<tr>
 					<td colspan="4" rowspan="2" align="left" height="101" valign="top"
-						width="241"><span class="text2">Lorem Ipsum</span> consetetur
-						sadipscing elitr, sed diam nonumy eirmod tempor i<br> <br>
+						width="241"><span class="text2"> <h4> relaxe com uma massagem </h4></span>
+						nossos especialistas sao formados em te apertar com força 
+						garantimos que voce saira da massagem completamente relaxado<br> <br>
 						nvidunt ut labore Lorem ipsum dolor sit amet, conseter sadipscing
 						elitr, sed diam Lorem ipsum dolor sit amet</td>
 					<td><img src="html/images/spacer.gif" alt="" height="44" width="1"></td>
@@ -200,8 +199,7 @@
 					<td rowspan="4" align="left" valign="top"><img
 						src="html/images/nt3.jpg" alt="" height="61" width="52"></td>
 					<td colspan="7" align="left" height="17" valign="top" width="414"><a
-						href="#" class="a">invidunt ut labore Lorem conseter dolor sit
-							amet, sed elitr, sed diam Lorem ipsum dolor sit </a></td>
+						href="#" class="a">YOU NEED MASSAAAAAAAGE</a></td>
 					<td><img src="html/images/spacer.gif" alt="" height="17" width="1"></td>
 				</tr>
 				<tr>
